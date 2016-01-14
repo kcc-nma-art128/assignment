@@ -22,6 +22,33 @@ A Hackable Text Editor for the 21st Century.
 Atom is an open source cross-platform editor. There are [builds available for Mac, Windows, and Linux](https://github.com/atom/atom/releases/).
 
 
+## HTML
+HTML (Hyper Text Markup Language) is a markup language for describing web documents (websites). The markup tells the Web browser how to display a website's words and images to the user.
+
+```html
+<!DOCTYPE html>               <!-- Tell the browser what type of document they're looking at. -->
+<html>                        <!-- html tag is the container for all other HTML elements -->
+  <head>                      <!-- head is a collection of metadata for the Document-->
+    <meta charset="UTF-8" />  <!-- Specify character encoding for the HTML document -->
+    <title></title>           <!-- Title for the document -->
+  </head>
+  <body>                      <!-- This is the document's body -->
+    <h1></h1>                 <!-- Define HTML headings -->
+    <h2></h2>
+    <h3></h3>
+    <p></p>                   <!-- Define a paragraph -->
+    <ul>                      <!-- Define an unordered list -->
+      <li></li>               <!-- Define a list item -->
+    </ul>
+    <ol>                      <!-- Define an ordered list -->
+      <li></li>
+    </ol>
+    <a href="#"></a>          <!-- Define a hyperlink -->
+  </body>
+</html>
+```
+
+
 ## Homework:
 - Set up your class web page. All students are required to have hosting space to post their designs, assignments, and ultimately their final web site. Students are required to purchase a hosting plan with a third party hosting provider. Past students have purchased hosting plans from [Bluehost](http://www.bluehost.com/), [NameCheap](http://www.namecheap.com/), [HostGator](http://www.hostgator.com/), and [GoDaddy](http://www.godaddy.com/) (these are just a few of many hosting providers available). Plans should include ample disk space (ie. more than 2GB or unlimited), support for CGI, PHP, and MySQL, multiple domain hosting (to host more than one site), one-click install/support for Wordpress, Joomla, and Drupal (popular CMS options), and a low, competitive price (an example rate is around $3-$5/month – this is subject to change based upon current trends for hosting prices).
 - Once your class web page is set up, email the url to the instructor.
