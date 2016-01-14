@@ -67,9 +67,35 @@ A top-level domain, or TLD, is the most general part of the domain. The TLD is t
 Web host stores all the pages of your website and makes them available to computers connected to the Internet. Within a domain, the domain owner can define individual hosts, which refer to separate computers or services accessible through a domain.
 
 
+## FTP
+FTP (File Transfer Protocol) is a way to transfer files between hosts over the internet. It is especially helpful as a way to upload or download files to or from a site quickly.
+
+### FileZilla
+FileZilla is a free FTP application [available for Mac, Windows, and Linux](http://www.filezilla-project.org/download.php?type=client).
+
+**Set up FileZilla:**
+
+1. Open the Site Manager by clicking the 1st icon on the topbar or navigating `File > Site Manager`.
+
+1. Site Manager window should pop up.
+
+  1. Click the New Site button.
+  1. Enter your Host name. (Domain name or IP Address)
+  1. Select FTP for Protocol.
+  1. If you're on a public computer, set Logon Type to "Ask for password".
+  1. Username can be found by visiting FTP Accounts section of the cPanel.
+  1. Click the Connect button.
+  1. Enter your password (cPanel password).
+
+  ![Site Manager](http://i.imgur.com/lxpw9aT.png)
+
+1. Once you log in, all your files and folders on your server will be viewable. The easiest way to copy files to and from the server is to simply drag-and-drop.
+
+
 ## Homework:
 - Set up your class web page. All students are required to have hosting space to post their designs, assignments, and ultimately their final web site. Students are required to purchase a hosting plan with a third party hosting provider. Past students have purchased hosting plans from [Bluehost](http://www.bluehost.com/), [NameCheap](http://www.namecheap.com/), [HostGator](http://www.hostgator.com/), and [GoDaddy](http://www.godaddy.com/) (these are just a few of many hosting providers available). Plans should include ample disk space (ie. more than 2GB or unlimited), support for CGI, PHP, and MySQL, multiple domain hosting (to host more than one site), one-click install/support for Wordpress, Joomla, and Drupal (popular CMS options), and a low, competitive price (an example rate is around $3-$5/month – this is subject to change based upon current trends for hosting prices).
 - Once your class web page is set up, email the url to the instructor.
+- Assignments 1 - HTML web page
 
 
 ### Reference
@@ -79,6 +105,7 @@ Web host stores all the pages of your website and makes them available to comput
   + [NameCheap](http://www.namecheap.com/)
   + [HostGator](http://www.hostgator.com/)
 - [An Introduction to DNS Terminology, Components, and Concepts](https://www.digitalocean.com/community/tutorials/an-introduction-to-dns-terminology-components-and-concepts)
+- [ Setting up FileZilla](https://my.bluehost.com/cgi/help/filezilla)
 - Text Editors
   + [Atom](http://www.atom.io/)
     * [Atom Editor Cheat Sheet](http://d2wy8f7a9ursnm.cloudfront.net/atom-editor-cheat-sheet.pdf)
