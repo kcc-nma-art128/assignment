@@ -81,7 +81,8 @@ FileZilla is a free FTP application [available for Mac, Windows, and Linux](http
 
   1. Click the New Site button.
   1. Enter your Host name. (Domain name or IP Address)
-  1. Select FTP for Protocol.
+  1. Protocol: Select "FTP - File Transfer Protocol".
+  1. Encryption: Select "One use plain FTP".
   1. If you're on a public computer, set Logon Type to "Ask for password".
   1. Username can be found by visiting FTP Accounts section of the cPanel.
   1. Click the Connect button.
@@ -89,7 +90,9 @@ FileZilla is a free FTP application [available for Mac, Windows, and Linux](http
 
   ![Site Manager](http://i.imgur.com/lxpw9aT.png)
 
-1. Once you log in, all your files and folders on your server will be viewable. The easiest way to copy files to and from the server is to simply drag-and-drop.
+1. Once you've logged in, all your files and folders on your server will be viewable. Go into `public_html` folder, which is the web root for your primary domain name.  
+
+1. The easiest way to copy files to and from the server is to simply drag-and-drop into the `public_html` folder.
 
 
 ## Homework:
