@@ -88,7 +88,7 @@ FileZilla is a free FTP application [available for Mac, Windows, and Linux](http
   1. Click the Connect button.
   1. Enter your password (cPanel password).
 
-  ![Site Manager](http://i.imgur.com/lxpw9aT.png)
+  ![Site Manager](http://i.imgur.com/ZxFtyt5.png)
 
 1. Once you've logged in, all your files and folders on your server will be viewable. Go into `public_html` folder, which is the web root for your primary domain name.  
 
