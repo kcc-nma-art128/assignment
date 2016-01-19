@@ -30,3 +30,13 @@ There are three ways to insert a style sheet:
   </body>
 </html>
 ```
+
+
+## Homework:
+- Assignment 2 - Post "HTML page with linked CSS file" on your class web page.
+
+
+### Reference
+- [CSS Introduction](http://www.w3schools.com/css/css_intro.asp)
+- [CSS Zen Garden](http://www.csszengarden.com/)
+- [CSS Properties](http://www.w3schools.com/cssref/)
