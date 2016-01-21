@@ -32,6 +32,17 @@ There are three ways to insert a style sheet:
 ```
 
 
+## IDs vs Classes vs Elements
+- What is an ID?
+- What is a Class?
+- When should you use them?
+
+
+## CSS Specificity
+- What is specificity?
+- Why does it matters?
+
+
 ## Base HTML & CSS
 What is the best way to start coding from scratch? What HTML/CSS code do front-end developers commonly repeat across multiple projects?
 
