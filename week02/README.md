@@ -32,6 +32,14 @@ There are three ways to insert a style sheet:
 ```
 
 
+## Base HTML & CSS
+What is the best way to start coding from scratch? What HTML/CSS code do front-end developers commonly repeat across multiple projects?
+
+Start coding with a strong base (simple, semantic markup with initial base CSS styling for core elements such as the typography, headings, lists, links, and all media).
+
+Base [HTML](base/index.html) & [CSS](base/css/style.css)
+
+
 ## Homework:
 - Assignment 2 - Post "HTML page with linked CSS file" on your class web page.
 
