@@ -119,3 +119,11 @@ Base [HTML](base/index.html) & [CSS](base/css/style.css)
 - [CSS Introduction](http://www.w3schools.com/css/css_intro.asp)
 - [CSS Zen Garden](http://www.csszengarden.com/)
 - [CSS Properties](http://www.w3schools.com/cssref/)
+- [The Difference Between ID and Class](https://css-tricks.com/the-difference-between-id-and-class/)
+- CSS Specificity
+  + [CSS Specificity: Things You Should Know](https://www.smashingmagazine.com/2007/07/css-specificity-things-you-should-know/)
+  + [HTML Dog Specificity](http://www.htmldog.com/guides/css/intermediate/specificity/)
+  + [CSS Specificity Wars – Cheat Sheet](https://stuffandnonsense.co.uk/archives/images/specificitywars-05v2.jpg)
+- CSS Reset
+  + [CSS Tools: Reset CSS](http://meyerweb.com/eric/tools/css/reset/)
+  + [normalize.css](https://github.com/necolas/normalize.css/)
