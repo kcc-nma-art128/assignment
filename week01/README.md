@@ -95,6 +95,9 @@ FileZilla is a free FTP application [available for Mac, Windows, and Linux](http
 1. The easiest way to copy files to and from the server is to simply drag-and-drop into the `public_html` folder.
 
 #### Folder Structure
+**public_html** is the folder where you put all your website files which will appear when someone navigates to your website.
+
+**art128** is a subdirectory, specifically for this class. You can access it by navigating to   `http://www.yourdomain.com/art128/` in your browser.
 
     .
     ├── ...
