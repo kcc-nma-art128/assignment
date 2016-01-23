@@ -32,10 +32,20 @@ There are three ways to insert a style sheet:
 ```
 
 
-## IDs vs Classes vs Elements
-- What is an ID?
-- What is a Class?
-- When should you use them?
+## IDs vs Classes
+**ID**'s are unique
+- Each element can have only one ID.
+- Each page can have only one element with that ID.
+
+**Classes** are reusable, NOT unique
+- You can use the same class on multiple elements.
+- You can use multiple classes on the same element.
+
+
+#### When should you use an ID versus a Class?
+**Rule of thumb:** use id's for behavior and classes for styling.
+
+An element can have both an `id` and a `class`, so start with a `class`. If you need something to be unique for a specific behavior (like navigation), add a unique `id` for that page.
 
 
 ## CSS Specificity
