@@ -85,6 +85,21 @@ One of the most difficult concepts to grasp in Cascading Stylesheets is CSS Spec
 - Embedded style sheet is closer to the element to be styled.
 - A class selector beats any number of element selectors.
 
+**Measure Specificity:**
+
+| Selector | Specificity |
+| -------- | ----------- |
+| * { } | 0 |
+| li { } | 1 (one element) |
+| li:hover { } |	2 (one element, one pseudo-element) |
+| ul li { } |	2 (two elements) |
+| ul ol li.red { } |	13 (three elements, one class) |
+| .sith	| 10 (one class selector) |
+| li.red.level { } |	21 (one element, two classes) |
+| #sith	| 100 (one id selector) |
+| body #darkside .sith p { }	| 112 (HTML selector, id selector, class selector, HTML selector; 1+100+10+1) |
+| style=”” |	1000 (one inline styling) |
+
 [CSS Specificity Wars – Cheat Sheet](https://stuffandnonsense.co.uk/archives/images/specificitywars-05v2.jpg)
 
 
