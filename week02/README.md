@@ -41,6 +41,31 @@ There are three ways to insert a style sheet:
 - You can use the same class on multiple elements.
 - You can use multiple classes on the same element.
 
+#### Syntax
+**HTML:**
+```html
+<!-- ID Attribute -->
+<div id="content"></div>
+
+<!-- Class Attribute -->
+<div class="container"></div>
+```
+
+**CSS:**
+```css
+/* ID Selector */
+#content {
+  background-color: #ccc;
+  padding: 20px;
+}
+
+/* Class Selector */
+.container {
+  max-width: 980px;
+  margin: 0 auto;
+}
+```
+
 
 #### When should you use an ID versus a Class?
 **Rule of thumb:** use id's for behavior and classes for styling.
