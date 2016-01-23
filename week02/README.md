@@ -88,7 +88,7 @@ One of the most difficult concepts to grasp in Cascading Stylesheets is CSS Spec
 **Measure Specificity:**
 
 | Selector | Specificity |
-| -------- | ----------- |
+| :-------- | :----------- |
 | * { } | 0 |
 | li { } | 1 (one element) |
 | li:hover { } |	2 (one element, one pseudo-element) |
