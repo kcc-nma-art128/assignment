@@ -74,8 +74,18 @@ An element can have both an `id` and a `class`, so start with a `class`. If you 
 
 
 ## CSS Specificity
-- What is specificity?
-- Why does it matters?
+It may not seem like something that important, and in most cases you won’t come across any conflicts at all, but the larger and more complex your CSS files become, or the more CSS files you start to juggle with, the greater likelihood there is of conflicts turning up.
+
+One of the most difficult concepts to grasp in Cascading Stylesheets is CSS Specificity. It is where the browser decide which CSS property values are the most relevant to an element and therefore will be applied. Specificity is based on the matching rules which are composed of CSS selectors of different sorts. If two selectors apply to the same element, the one with higher specificity wins.
+
+**Specificity Rules:**
+- If you have written the same rule twice, the latest rule is the one that counts.
+  + The last rule defined overrides any previous, conflicting rules.
+- ID selectors have a higher specificity than attribute selectors.
+- Embedded style sheet is closer to the element to be styled.
+- A class selector beats any number of element selectors.
+
+[CSS Specificity Wars – Cheat Sheet](https://stuffandnonsense.co.uk/archives/images/specificitywars-05v2.jpg)
 
 
 ## Base HTML & CSS
