@@ -94,6 +94,21 @@ FileZilla is a free FTP application [available for Mac, Windows, and Linux](http
 
 1. The easiest way to copy files to and from the server is to simply drag-and-drop into the `public_html` folder.
 
+#### Folder Structure
+
+    .
+    ├── ...
+    ├── public_html/                  # Web root for your primary domain name.
+    │   ├── index.html                # Default page for this directory
+    │   ├── art128/                   # Art 128 class website
+    │   │   ├── assignment01/  
+    │   │   ├── assignment02/
+    │   │   ├── index.html            # Default page for art128
+    │   │   └── ...  
+    │   ├── art229/                   # Art 229 class website
+    │   └── ...  
+    └── ...  
+
 
 ## Homework:
 - Set up your class web page. All students are required to have hosting space to post their designs, assignments, and ultimately their final web site. Students are required to purchase a hosting plan with a third party hosting provider. Past students have purchased hosting plans from [Bluehost](http://www.bluehost.com/), [NameCheap](http://www.namecheap.com/), [HostGator](http://www.hostgator.com/), and [GoDaddy](http://www.godaddy.com/) (these are just a few of many hosting providers available). Plans should include ample disk space (ie. more than 2GB or unlimited), support for CGI, PHP, and MySQL, multiple domain hosting (to host more than one site), one-click install/support for Wordpress, Joomla, and Drupal (popular CMS options), and a low, competitive price (an example rate is around $3-$5/month – this is subject to change based upon current trends for hosting prices).
