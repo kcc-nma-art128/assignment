@@ -109,3 +109,12 @@ Google Shim (aka Shiv) - HTML5 backward compatibility support:
 ```
 
 
+## Homework:
+- Starting with a solid base HTML and CSS setup, begin coding Company Name Site #1 by dividing the page into major sections using semantic HTML5 tags to designate different sections of the site. Then add a small amount of content and use CSS to control the presentation of all sections and content, such as background color, margin, and padding. Work from the "outside in" and "top down."
+
+
+### Reference
+- [HTML5 Elements](http://www.w3schools.com/html/html5_new_elements.asp)
+- [HTML5 Shiv](https://github.com/aFarkas/html5shiv)
+  + [w3schools - HTML5 browsers](http://www.w3schools.com/html/html5_browsers.asp)
+- [Why Ems](https://css-tricks.com/why-ems/)
