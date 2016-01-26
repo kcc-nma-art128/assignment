@@ -3,6 +3,8 @@
 ## Company Name #1
 This week we will begin Site #1 Company Name 1 by breaking down the common web page into specific sections commonly used for layout, introducing HTML5 tags, and more.
 
+What we will be building: [Company Name 1 - Step #1: Basic setup](http://emmanuelpilande.com/art128/companyname1-step1/)
+
 #### Assets:
 - [Company Name 1 - Site Map & Wireframes](assets/CompanyName1-sitemap-wireframes.pdf)
 - [Company Name 1 - Layout & Code Notes](assets/CompanyName1-notes.pdf)
