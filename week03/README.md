@@ -57,3 +57,55 @@ Google Shim (aka Shiv) - HTML5 backward compatibility support:
 ```
 
 
+#### Set up CSS
+**Base CSS for starting a site:**
+
+```css
+/* CSS TABLE OF CONTENTS
+=====================================
+	#BASE CSS
+	#SITE-SPECIFIC CSS
+===================================== */
+
+/* BASE (Initital Setup)
+=====================================
+	#RESET
+	#HTML5
+	#BASE TYPOGRAPHY
+		#BODY
+		#HEADINGS
+		#PARAGRAPHS
+		#LINKS
+		#LISTS
+	#IMAGES
+	#CLEARFIX
+===================================== */
+
+/* SITE SPECIFIC (Custom CSS for The Client Site)
+=====================================
+	#SITE-SPECIFIC GENERAL STYLING
+	#SITE-SPECIFIC TYPOGRAPHY
+	#LAYOUT/GRID
+	#SECTIONS
+	#MEDIA QUERIES
+	#@FONT-FACE
+===================================== */
+```
+
+**Media Queries:**
+
+```css
+/* MEDIA QUERIES
+===================================== */
+/* Tablet */
+@media only screen and (min-width: 48em) and (max-width: 62em) {
+
+}
+
+/* MOBILE */
+@media only screen and (max-width: 47.9999em) {
+
+}
+```
+
+
