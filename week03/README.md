@@ -110,6 +110,14 @@ Google Shim (aka Shiv) - HTML5 backward compatibility support:
 }
 ```
 
+## Box Model
+- What is box model?
+- 4 "shells"
+  + Content
+  + Padding
+  + Border
+  + Margin
+
 
 ## Homework:
 - Starting with a solid base HTML and CSS setup, begin coding Company Name Site #1 by dividing the page into major sections using semantic HTML5 tags to designate different sections of the site. Then add a small amount of content and use CSS to control the presentation of all sections and content, such as background color, margin, and padding. Work from the "outside in" and "top down."
