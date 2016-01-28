@@ -10,7 +10,7 @@ What we will be building: [Company Name 1 - Step #1: Basic setup](http://emmanue
 - [Company Name 1 - Layout & Code Notes](assets/CompanyName1-notes.pdf)
 - [Company Name 1 - Home Page Design](assets/CompanyName1-Design-home.jpg)
 - [Company Name 1 - About Sub Page Design](assets/CompanyName1-Design-about.jpg)
-- [Company Name 1 - Source Design File](assets/CompanyName1-Design.psd)
+- [Company Name 1 - Source Design File](assets/CompanyName1_Design.psd)
 
 
 #### Set up HTML
