@@ -110,6 +110,15 @@ Google Shim (aka Shiv) - HTML5 backward compatibility support:
 }
 ```
 
+
+## Div's
+- What is a Div
+- Div Usage tests
+  + Normal Flow
+  + Multiple Classes
+  + CSS positioning
+  + Grouping & nesting
+
 ## Box Model
 - What is box model?
 - 4 "shells"
