@@ -118,6 +118,17 @@ Google Shim (aka Shiv) - HTML5 backward compatibility support:
   + Border
   + Margin
 
+What is the total with of the element below:
+```css
+div {
+  width: 400px;
+  height: 100px;
+  margin: 0 20px;
+  padding: 20px;
+  border: 4px solid #333;
+}
+```
+
 
 ## Homework:
 - Starting with a solid base HTML and CSS setup, begin coding Company Name Site #1 by dividing the page into major sections using semantic HTML5 tags to designate different sections of the site. Then add a small amount of content and use CSS to control the presentation of all sections and content, such as background color, margin, and padding. Work from the "outside in" and "top down."
