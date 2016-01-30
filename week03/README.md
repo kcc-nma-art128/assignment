@@ -122,15 +122,17 @@ Google Shim (aka Shiv) - HTML5 backward compatibility support:
 
 
 ## Box Model
-All HTML elements can be considered as boxes. In CSS, the term "box model" is used when talking about design and layout. The CSS box model is essentially a box that wraps around every HTML element. It consists of: margins, borders, padding, and the actual content.
+All HTML elements can be considered as boxes. In CSS, the term "box model" is used when talking about design and layout. The CSS box model is essentially a box that wraps around every HTML element. It consists of: content, padding, borders, & margin.
 
 **Every element on a page is a rectangular box.**
 
-- 4 "shells"
-  + Content
-  + Padding
-  + Border
-  + Margin
+![Box Model](https://i.imgur.com/aetBH1x.png)
+
+- 4 shells
+  + Content - The content of the element
+  + Padding - Space inside the element & around the content
+  + Border - Between padding & margin  
+  + Margin - Space outside the element
 
 What is the total with of the element below:
 ```css
