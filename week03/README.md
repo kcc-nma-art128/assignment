@@ -112,12 +112,14 @@ Google Shim (aka Shiv) - HTML5 backward compatibility support:
 
 
 ## Div's
-- What is a Div
-- Div Usage tests
+`<div>` is short for "division", allows you to divide your page. It is used to group elements for styling purposes giving you more control over the structure, space, width, layout, etc.
+
+- Div usage tests
   + Normal Flow
   + Multiple Classes
   + CSS positioning
   + Grouping & nesting
+
 
 ## Box Model
 - What is box model?
