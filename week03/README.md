@@ -146,6 +146,16 @@ div {
 ```
 
 
+## Responsive Images
+Allow images to scale up & down, but never scale larger than it's original size. This will make the image responsive & fit the parent div/container.
+```css
+img {
+  max-width: 100%;
+  height: auto;
+}
+```
+
+
 ## Homework:
 - Starting with a solid base HTML and CSS setup, begin coding Company Name Site #1 by dividing the page into major sections using semantic HTML5 tags to designate different sections of the site. Then add a small amount of content and use CSS to control the presentation of all sections and content, such as background color, margin, and padding. Work from the "outside in" and "top down."
 
@@ -155,3 +165,5 @@ div {
 - [HTML5 Shiv](https://github.com/aFarkas/html5shiv)
   + [w3schools - HTML5 browsers](http://www.w3schools.com/html/html5_browsers.asp)
 - [Why Ems](https://css-tricks.com/why-ems/)
+- [Box Model](https://css-tricks.com/the-css-box-model/)
+- [Explain <div> tag to non-programmer](http://stackoverflow.com/a/14027798/3567750)
