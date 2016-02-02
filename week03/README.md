@@ -131,10 +131,10 @@ All HTML elements can be considered as boxes. In CSS, the term "box model" is us
 - 4 shells
   + Content - The content of the element
   + Padding - Space inside the element & around the content
-  + Border - Between padding & margin  
+  + Border - Between padding & margin
   + Margin - Space outside the element
 
-What is the total with of the element below:
+What is the total width of the element below:
 ```css
 div {
   width: 400px;
@@ -166,4 +166,4 @@ img {
   + [w3schools - HTML5 browsers](http://www.w3schools.com/html/html5_browsers.asp)
 - [Why Ems](https://css-tricks.com/why-ems/)
 - [Box Model](https://css-tricks.com/the-css-box-model/)
-- [Explain <div> tag to non-programmer](http://stackoverflow.com/a/14027798/3567750)
+- [Explain div tag to non-programmer](http://stackoverflow.com/a/14027798/3567750)
