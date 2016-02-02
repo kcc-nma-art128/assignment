@@ -145,6 +145,12 @@ div {
 }
 ```
 
+## Display Block vs Inline
+- block — Form boxes according to the css box-model. They have width, height, padding, border, and margin and they stack vertically on top of each other.
+- inline — don’t form boxes. They sit horizontally next to each other.
+- inline-block — Behaves like block elements on the inside where they form boxes. On the outside they act like inline elements sitting horizontally next to each other instead of stacking on top of each other.
+
+
 
 ## Responsive Images
 Allow images to scale up & down, but never scale larger than it's original size. This will make the image responsive & fit the parent div/container.
