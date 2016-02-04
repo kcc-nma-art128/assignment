@@ -1,6 +1,8 @@
 # Week 4 - Intro To CSS Positioning & IR
 There are multiple ways to position HTML elements using CSS. This week we will go over some of the popular techniques and best practices, in addition to an intro to two effective image replacement techniques.
 
+[Company Name 1 - Step #2: Image Techniques](http://emmanuelpilande.com/art128/companyname1-step2/)
+
 ## Intro to CSS Positioning
 ### Floats
 - Float usage test
@@ -68,3 +70,14 @@ background-image:url('images/myimage.jpg');
   overflow: hidden;
 }
 ```
+
+
+## Homework:
+- Continue to Step 2 of coding Company Name 1. Be sure to work in a new (separate) folder, such as "companyname1_step2."
+
+
+### Reference
+- [CSS Layout - float and clear](http://www.w3schools.com/css/css_float.asp)
+- [All About Floats](https://css-tricks.com/all-about-floats/)
+- [CSS Layout - The position Property](http://www.w3schools.com/css/css_positioning.asp)
+- [Image Replacement techniques](https://css-tricks.com/the-image-replacement-museum/)
