@@ -44,11 +44,20 @@ There are multiple ways to position HTML elements using CSS. This week we will g
 ```
 
 ### Positioning
-- Static
-- Relative
-- Absolute
-- Fixed
+The position property specifies the type of positioning method used for an element.
 
+Four different position types:
+- Static
+  + Elements are positioned static by default.
+  + Static positioned elements are not affected by top, bottom, left, and right properties.
+- Relative
+  + An element with `position: relative;` is positioned relative to its normal position; offset an element from it's position.
+- Absolute
+  + The element is positioned relative to its first positioned (not static) ancestor element.
+  + Position an element at a specified position relative to its closest positioned ancestor or to the containing block.
+- Fixed
+  + An element with `position: fixed;` is positioned relative to the viewport, which means it always stays in the same place even if the page is scrolled.
+  
 
 ## Inserting Images (2 techniques):
 **HTML IMG Tag:**
