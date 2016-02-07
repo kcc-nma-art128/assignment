@@ -6,8 +6,26 @@ There are multiple ways to position HTML elements using CSS. This week we will g
 ## Intro to CSS Positioning
 ### Floats
 - Float usage test
+  + [All About Floats](https://css-tricks.com/all-about-floats/)
+  + The float property specifies whether or not a box (an element) should float
+
+     ```
+     float: none|left|right|initial|inherit;
+     ```
+
 - Clear property
+  + [What does clear both do](http://stackoverflow.com/questions/12871710/what-does-the-css-rule-clear-both-do)
+  + The clear property specifies on which sides of an element floating elements are not allowed to float.
+
+     ```
+     clear: none|left|right|both|initial|inherit;
+     ```
+
 - Grid Systems
+  + [Understanding Grid Systems](http://www.sitepoint.com/understanding-css-grid-systems/)
+  + [Skeleton](http://getskeleton.com/)
+  + [Bootstrap](http://getbootstrap.com/css/)
+  + [Foundation](http://foundation.zurb.com/)
 
 ##### Containing Floats
 ```css
