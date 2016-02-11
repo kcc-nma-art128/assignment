@@ -19,6 +19,15 @@ Company Name 1 three different navigation systems:
 - Horizontal top navigation.
 - Footer navigation.
 
+**Using lists for navigation:**
+- Use unordered lists.
+- Control the list-style type (set to "none" to remove the default bullet points).
+- Control the position of the list items via floats or displaying them "inline" or "inline-block".
+- Control the visual formatting using margin, padding, and borders.
+- Use a:hover for rollovers.
+- For further control:
+  + Use classes or css selectors, such as “:first-child” or “:last-child” to target specific list items
+
 
 ## Homework:
 - Continue to Step 3 of coding Company Name 1. Be sure to work in a new (separate) folder, such as "companyname1-step3."
@@ -26,6 +35,7 @@ Company Name 1 three different navigation systems:
 
 ### Reference
 - [Can I Use](http://caniuse.com/)
+- [CSS Font Stack](http://www.cssfontstack.com/)
 - [CSS3 @font-face Rule](http://www.w3schools.com/cssref/css3_pr_font-face_rule.asp)
 - [Using @font-face](https://css-tricks.com/snippets/css/using-font-face/)
 - [Comprehensive Guide: When to Use Em vs. Rem](http://webdesign.tutsplus.com/tutorials/comprehensive-guide-when-to-use-em-vs-rem--cms-23984)
