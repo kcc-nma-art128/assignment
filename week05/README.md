@@ -46,6 +46,51 @@ Company Name 1 three different navigation systems:
 - For further control:
   + Use classes or css selectors, such as “:first-child” or “:last-child” to target specific list items
 
+#### Two ways to create a horizontal navigation bar.
+
+**Floating:**
+```css
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  background-color: #333;
+  overflow: hidden;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  padding: 10px 12px;
+  text-align: center;
+  color: white;
+}
+```
+
+**Inline:**
+```css
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  background-color: #333;
+}
+
+li {
+  display: inline-block;
+}
+
+li a {
+  display: block;
+  padding: 10px 12px;
+  text-align: center;
+  color: white;
+}
+```
+
 
 ## Homework:
 - Continue to Step 3 of coding Company Name 1. Be sure to work in a new (separate) folder, such as "companyname1-step3."
