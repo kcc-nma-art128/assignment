@@ -12,6 +12,24 @@ Unordered lists are a semantic way of marking up navigational links for web site
 - [Adobe Typekit](https://typekit.com/)
 - [Google Fonts](https://www.google.com/fonts)
 
+```css
+@font-face {
+  font-family: 'FontName';
+  src: url('fontname.eot'); /* IE9 Compat Modes */
+  src: url('fontname.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('fontname.woff2') format('woff2'), /* Super Modern Browsers */
+       url('fontname.woff') format('woff'), /* Pretty Modern Browsers */
+       url('fontname.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('fontname.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+```
+
+```css
+body {
+  font-family: 'FontName', Fallback, sans-serif;
+}
+```
+
 
 ## How to stylize lists for navigation
 Company Name 1 three different navigation systems:
