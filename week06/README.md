@@ -2,6 +2,41 @@
 Multiple column layouts can be implemented via CSS using floats.
 
 
+## Columns
+A three column layout would look something like the following:
+
+**html**
+```html
+<div class="row">
+  <div class="column">
+     First column
+  </div>
+  <div class="column">
+     Second column
+  </div>
+  <div class="column">
+     Thrid column
+  </div>
+</div>
+```
+
+**css**
+```css
+.column {
+  width: 30%;      /* set column width */
+  float: left;     /* float left or right */
+  margin: 0 1.5%;  /* set left & right gutter */
+}
+```
+
+The row class has a clearfix which will clear the floats & bring back it's children elements to normal flow.
+Each column is floated left, making them line up horizontally.
+They also have a width of 30% & margin left & right of 1.5%.
+One column has a total width of 33%.
+
+There are 3 columns, `33% * 3 = 99%` which will fill up the whole row.
+
+
 ## CSS Grid Systems
 A grid system is a structure that allows for content to be stacked both vertically and horizontally in a consistent and easily manageable fashion. Additionally, grid system code is project-agnostic giving it a high degree of portability so that it may be adopted on new projects.
 
