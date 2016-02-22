@@ -1,6 +1,7 @@
-# Week 6 - Layout with Columns
-Multiple column layouts can be implemented via CSS using floats.
+# Week 6 - Layout with Columns & Image Sprites
+This week we'll go over multiple column layouts that can be implemented via CSS using floats. We will also cover CSS rollovers/hover state with image sprites.
 
+[Company Name 1 - Step #4: Columns](http://emmanuelpilande.com/art128/companyname1-step3/)
 
 ## Columns
 A three column layout would look something like the following:
@@ -48,6 +49,9 @@ A grid system is a structure that allows for content to be stacked both vertical
 - [Bootstrap](http://getbootstrap.com/css/#grid)
 - [Foundation](http://foundation.zurb.com/grid.html)
 
+
+## Image Sprites
+An image sprite is a collection of images put into a single image. A web page with many images can take a long time to load and generates multiple server requests. Using image sprites will reduce the number of server requests, save bandwidth, & help with performance.
 
 ## Homework:
 - Continue to Step 4 of coding Company Name 1. Be sure to work in a new (separate) folder, such as "companyname1-step4."
