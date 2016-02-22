@@ -61,3 +61,5 @@ An image sprite is a collection of images put into a single image. A web page wi
 - [Understanding CSS Grid Systems from the Ground Up](http://www.sitepoint.com/understanding-css-grid-systems/)
 - [Don’t Overthink It Grids](https://css-tricks.com/dont-overthink-it-grids/)
 - [Responsive Web Design - Grid-View](http://www.w3schools.com/css/css_rwd_grid.asp)
+- [CSS Image Sprites](http://www.w3schools.com/css/css_image_sprites.asp)
+- [CSS Sprites: What They Are, Why They’re Cool, and How To Use Them](https://css-tricks.com/css-sprites/)
