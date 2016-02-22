@@ -55,18 +55,46 @@ An image sprite is a collection of images put into a single image. A web page wi
 
 ### Creating an Image Sprite
 1. Select the `Big Button` with the marquee tool.
-1. Turn of `mid` & `bg` layers. We want the background to be transparent.
+
+    ![Select Big Button](http://i.imgur.com/4FGHVzu.png)
+
+1. Turn off `mid` & `bg` layers. We want the background to be transparent.
+
+    ![Turn off background](http://i.imgur.com/MJHGT9Y.png)
+
 1. Copy Merge (`CMD + SHIFT + C`).
+
 1. Create a New document (`CMD + N`). Dimension 237x59.
+
 1. Paste the image (`CMD + V`).
+
+    ![Big Button](http://i.imgur.com/jt7uQEq.png)
+
 1. Go back to `CompanyName1_Design.psd`.
+
 1. Enable button rollover/hover state which is the `Shape 3` Layer within `HOME PAGE > section1 > intro type bl... > button`.
+
+    ![Enable hover state](http://i.imgur.com/x0nO1ZR.png)
+
 1. Copy Merge `Big Button` again, this time with it's rollover/hover state.
+
 1. Go back to the document you've created earlier with `Big Button`.
+
 1. Change Canvas Size (`CMD + OPT + C`). Double the height & set top anchor. Dimension 237x118.
+
+    ![Change Canvas Size](http://i.imgur.com/BxV33DG.png)
+
 1. Paste the hover state image (`CMD + V`) & nudge it down to fit the space we've just created.
+
+    ![Buttons Sprite Sheet](http://i.imgur.com/r1Qj4G0.png)
+
 1. Disable the `Background` layer.
+
+    ![Disable Background](http://i.imgur.com/D2Vfusr.png)
+
 1. Now we can Save For the Web (`CMD + OPT + SHIFT + S`). Export as `PNG-24`.
+
+    ![Save For the Web](http://i.imgur.com/LxPfwsH.png)
 
 
 ## Homework:
