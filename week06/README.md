@@ -53,6 +53,22 @@ A grid system is a structure that allows for content to be stacked both vertical
 ## Image Sprites
 An image sprite is a collection of images put into a single image. A web page with many images can take a long time to load and generates multiple server requests. Using image sprites will reduce the number of server requests, save bandwidth, & help with performance.
 
+### Creating an Image Sprite
+1. Select the `Big Button` with the marquee tool.
+1. Turn of `mid` & `bg` layers. We want the background to be transparent.
+1. Copy Merge (`CMD + SHIFT + C`).
+1. Create a New document (`CMD + N`). Dimension 237x59.
+1. Paste the image (`CMD + V`).
+1. Go back to `CompanyName1_Design.psd`.
+1. Enable button rollover/hover state which is the `Shape 3` Layer within `HOME PAGE > section1 > intro type bl... > button`.
+1. Copy Merge `Big Button` again, this time with it's rollover/hover state.
+1. Go back to the document you've created earlier with `Big Button`.
+1. Change Canvas Size (`CMD + OPT + C`). Double the height & set top anchor. Dimension 237x118.
+1. Paste the hover state image (`CMD + V`) & nudge it down to fit the space we've just created.
+1. Disable the `Background` layer.
+1. Now we can Save For the Web (`CMD + OPT + SHIFT + S`). Export as `PNG-24`.
+
+
 ## Homework:
 - Continue to Step 4 of coding Company Name 1. Be sure to work in a new (separate) folder, such as "companyname1-step4."
 
