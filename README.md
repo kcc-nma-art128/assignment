@@ -5,3 +5,4 @@
 - [Week 4 - Intro to CSS Positioning & IR](week04/README.md)
 - [Week 5 - Unordered Lists for Navigation](week05/README.md)
 - [Week 6 - Layout with Columns & Image Sprites](week06/README.md)
+- [Week 7 - Sub Pages](week07/README.md)
