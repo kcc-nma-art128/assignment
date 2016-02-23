@@ -98,7 +98,7 @@ An image sprite is a collection of images put into a single image. A web page wi
 
 
 ## Homework:
-- Continue to Step 4 of coding Company Name 1. Be sure to work in a new (separate) folder, such as "companyname1-step4."
+- Continue to Step 4 & 5 of coding Company Name 1. Be sure to work in a new (separate) folder, such as "companyname1-step4" & "companyname1-step5".
 
 
 ### Reference
