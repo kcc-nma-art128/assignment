@@ -11,10 +11,10 @@ There's multiple types of version control systems available, including [CVS](htt
 - [Wikipedia: List of types of version control](https://en.wikipedia.org/wiki/List_of_revision_control_software)
 
 **Video: [Git Basics: What is Version Control?](https://vimeo.com/41027679)**
-[![What is Version Control](images/git/what-is-version-control.png)](https://vimeo.com/41027679)
+[![What is Version Control](http://i.imgur.com/OpM0SJg.png)](https://vimeo.com/41027679)
 
 #### What is Git/GitHub?
-[![Git SCM Logo](images/git/git-logo.png)](https://git-scm.com/)
+[![Git SCM Logo](http://i.imgur.com/vo6uXh8.png)](https://git-scm.com/)
 
 **[Git](https://git-scm.com/) is the fastest growing and most popular version control system used to track and share documents today.**
 
@@ -22,7 +22,7 @@ Git provides common version control capabilities, but with it's own, unique orga
 
 Git also allows groups of people to work on the same documents (often code) at the same time, and without stepping on each other's toes. It's a distributed, version control system.
 
-[![Github](images/git/github-logo.png)](https://github.com/)
+[![Github](http://i.imgur.com/3vbrb1d.png)](https://github.com/)
 
 **[GitHub](https://github.com/) is a web-based, Git repository hosting service. _(ie. a 'hub' for Git repo's, get it?)_**
 
