@@ -70,7 +70,13 @@ As we go through the semester, we'll cover different aspects of Git & GitHub wit
 - When you are ready to submit your code assignment, create a pull request
 
 
+## Homework:
+- Create a repository for Company Name 1 on GitHub.
+
+
 ### Reference
 - [Why Use a Version Control System?](https://www.git-tower.com/learn/git/ebook/command-line/basics/why-use-version-control)
+- [GitHub tutorial](https://guides.github.com/activities/hello-world/)
+- [GitHub Desktop](https://desktop.github.com/)
+- [GitHub-Flow](https://guides.github.com/introduction/flow/)
 - [Try Git (Command-line)](https://try.github.io/levels/1/challenges/1)
-
