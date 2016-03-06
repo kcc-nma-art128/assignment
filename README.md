@@ -7,3 +7,4 @@
 - [Week 6: Layout with Columns & Image Sprites](week06/README.md)
 - [Week 7: Sub Pages](week07/README.md)
 - [Week 8: Intro to Version Control](week08/README.md)
+- [Week 9-10: Company Name 2 (Midterm)](week09-10/README.md)
